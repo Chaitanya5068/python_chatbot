@@ -32,19 +32,19 @@ To assist users by providing weather updates, solving math problems, answering d
 
  requests (for API integration)
 
-5. Sample Questions to Ask:
+5.Sample Questions to Ask:
 
- "What's the weather in Pune?"
+ What's the weather in Pune?
 
- "Will it rain in Mumbai today?"
+ Will it rain in Mumbai today?
 
- "What is 25 * 4 + 2?"
+ What is 25 * 4 + 2?
 
- "Who is Rani Lakshmi Bai?"
+ Who is Rani Lakshmi Bai?
 
- "What is the time now?"
+ What is the time now?
 
- "Tell me the date of tomorrow"
+ Tell me the date of tomorrow
 
  6.How to Set It Up:
 
