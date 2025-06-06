@@ -1,10 +1,14 @@
-1.Project Name:
+## Project Name:
+
 Aarambh Chatbot — A smart, terminal-based AI chatbot built using Python.
 
-2.Purpose:
+---
+## Purpose:
+
 To assist users by providing weather updates, solving math problems, answering date/time queries, and offering general knowledge using natural language.
 
-3.Core Functionalities:
+---
+## Core Functionalities:
 
 ✅ Weather forecasting using OpenWeatherMap API.
 
@@ -18,7 +22,8 @@ To assist users by providing weather updates, solving math problems, answering d
 
 ✅ Handles greetings, thank you, goodbye, and basic conversations.
 
-4.Technologies Used:
+---
+## Technologies Used:
 
  Python 3.11+
 
@@ -32,7 +37,8 @@ To assist users by providing weather updates, solving math problems, answering d
 
  requests (for API integration)
 
-5.Sample Questions to Ask:
+---
+## Sample Questions to Ask:
 
  What's the weather in Pune?
 
@@ -46,7 +52,8 @@ To assist users by providing weather updates, solving math problems, answering d
 
  Tell me the date of tomorrow
 
- 6.How to Set It Up:
+---
+## How to Set It Up:
 
 Clone the repo:  https://github.com/Chaitanya5068/python_chatbot_Aarambh
 
@@ -56,9 +63,11 @@ Install dependencies: pip install -r requirements.txt
 
 Add your OpenWeatherMap API key inside aarambh_chatbot.py (WEATHER_API_KEY variable)
 
-7.Run the chatbot: python aarambh_chatbot.py
+---
+## Run the chatbot: python aarambh_chatbot.py
 
-8.Dependencies to Install:
+---
+## Dependencies to Install:
 
 spacy
 
@@ -70,7 +79,8 @@ dateparser
 
 requests
 
-9.Chatbot Introduction Message:
+---
+## Chatbot Introduction Message:
 
 🤖 Hello! I am Aarambh, your AI assistant. I can help you with:
 
@@ -83,9 +93,12 @@ Date and time
 History and general knowledge
 Just ask me anything!
 
-10.License:
+---
+## License:
+
 MIT License (freely usable and shareable with attribution)
 
-11.Developed By:
+---
+## Developed By:
 Chaitanya Bhosale
 GitHub: https://github.com/chaitanya5068
