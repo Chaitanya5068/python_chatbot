@@ -53,6 +53,13 @@ To assist users by providing weather updates, solving math problems, answering d
  Tell me the date of tomorrow
 
 ---
+## 📸 Sample Output
+<img width="1918" height="998" alt="Ac6" src="https://github.com/user-attachments/assets/8a838a25-4c84-4bce-886b-890eb3ccb168" />
+<img width="1919" height="1013" alt="Ac7" src="https://github.com/user-attachments/assets/a4a205e4-bc12-4f00-9986-35a300af832e" />
+
+
+
+---
 ## How to Set It Up:
 
 Clone the repo:  https://github.com/Chaitanya5068/python_chatbot_Aarambh
