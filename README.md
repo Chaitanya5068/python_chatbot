@@ -38,6 +38,59 @@ To assist users by providing weather updates, solving math problems, answering d
  requests (for API integration)
 
 ---
+## Dependencies to Install:
+
+spacy
+
+wikipedia
+
+sympy
+
+dateparser
+
+requests
+
+
+'''bash
+
+    pip install spacy wikipedia sympy dateparser requests
+
+---
+## How to Set It Up:
+
+Clone the repo:  https://github.com/Chaitanya5068/python_chatbot_Aarambh
+
+Navigate to folder: cd aarambh_chatbot
+
+---
+## Install dependencies: 
+
+       pip install -r requirements.txt
+
+Add your OpenWeatherMap API key inside aarambh_chatbot.py (WEATHER_API_KEY variable)
+
+---
+## Run the chatbot: 
+    python aarambh_chatbot.py
+
+
+---
+## Chatbot Introduction Message:
+
+🤖 Hello! I am Aarambh, your AI assistant. I can help you with:
+
+Weather updates
+
+Math problems
+
+Date and time
+
+History and general knowledge
+Just ask me anything!
+
+---
+
+
 ## Sample Questions to Ask:
 
  What's the weather in Pune?
@@ -56,49 +109,6 @@ To assist users by providing weather updates, solving math problems, answering d
 ## 📸 Sample Output
 <img width="1918" height="998" alt="Ac6" src="https://github.com/user-attachments/assets/8a838a25-4c84-4bce-886b-890eb3ccb168" />
 <img width="1919" height="1013" alt="Ac7" src="https://github.com/user-attachments/assets/a4a205e4-bc12-4f00-9986-35a300af832e" />
-
-
-
----
-## How to Set It Up:
-
-Clone the repo:  https://github.com/Chaitanya5068/python_chatbot_Aarambh
-
-Navigate to folder: cd aarambh_chatbot
-
-Install dependencies: pip install -r requirements.txt
-
-Add your OpenWeatherMap API key inside aarambh_chatbot.py (WEATHER_API_KEY variable)
-
----
-## Run the chatbot: python aarambh_chatbot.py
-
----
-## Dependencies to Install:
-
-spacy
-
-wikipedia
-
-sympy
-
-dateparser
-
-requests
-
----
-## Chatbot Introduction Message:
-
-🤖 Hello! I am Aarambh, your AI assistant. I can help you with:
-
-Weather updates
-
-Math problems
-
-Date and time
-
-History and general knowledge
-Just ask me anything!
 
 ---
 ## License:
